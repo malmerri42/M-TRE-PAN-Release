@@ -9,7 +9,7 @@ Installation:
 
 Building and running:
     from the top level directory:
-        1.) cd ./build
+        1.) mkdir build && cd ./build
         2.) cmake ../source 
         3.) make
         4.) ./MTREPAN
