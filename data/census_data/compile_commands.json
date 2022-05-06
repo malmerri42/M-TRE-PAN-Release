@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/moe/AI_graduate_school/thesis/implementation/M-TRE-PAN/data/census_data/model_build",
+  "command": "/usr/bin/c++   -I/home/moe/AI_graduate_school/thesis/implementation/M-TRE-PAN/data/census_data/model_build -I/home/moe/AI_graduate_school/thesis/implementation/M-TRE-PAN/data/census_data/model_src_test/mlpack  -g   -fopenmp -o CMakeFiles/TestBuild.dir/main.cpp.o -c /home/moe/AI_graduate_school/thesis/implementation/M-TRE-PAN/data/census_data/model_src_test/main.cpp",
+  "file": "/home/moe/AI_graduate_school/thesis/implementation/M-TRE-PAN/data/census_data/model_src_test/main.cpp"
+}
+]
