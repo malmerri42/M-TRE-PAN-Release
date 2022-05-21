@@ -21,3 +21,7 @@ Acknowledgments:
     armadillo: http://arma.sourceforge.net/
     ensmallen: https://ensmallen.org/
     All datasets in ./data belong to their respective owners.
+
+Legal:
+M-TRE-PAN respects the licenses of the libraries and code used and conforms to their requirements in all.
+This applies to all commits retroactively.
